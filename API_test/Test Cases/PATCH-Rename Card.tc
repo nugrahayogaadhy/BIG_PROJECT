@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PATCH-Rename Card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac0fd6af-f3d8-4c8f-bfa4-118cf836feea</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c887182f-4c77-4c86-a017-2b7e94a367a3</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

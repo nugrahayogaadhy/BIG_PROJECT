@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST-Archive List - Card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77ed3b00-9548-4b3d-8784-524c058b9d22</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06c717d0-25a1-414b-8fce-dc486dfae091</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

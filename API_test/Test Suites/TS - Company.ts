@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS - Company</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2fc31b34-d221-45bb-811d-358624415022</testSuiteGuid>
+   <testCaseLink>
+      <guid>69ea7533-7d98-4249-8bce-fe2ca145d726</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POST-Create New Company</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a98e927a-00d3-4302-924c-81fa64272762</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>553cf727-990b-4868-8f10-e69c7634bb7a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POST-Create Team</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>529e80b1-e67c-4fa9-bbd1-d16f392d1415</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>43af297b-580e-422c-8de1-0ea5baadc47a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PATCH-Edit Team</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b608dacc-6f26-4748-b24c-80209387bf89</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>edaa4e45-2087-4857-b298-9bfe8f2f10d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POST-Add list</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>673df1e3-3701-4d7a-a98b-46791a0f47ef</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>97064250-9a03-4bcd-88a1-177249f62331</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DEL - Delete Company</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>de4194be-c14f-4cb6-89ba-eddae01a9751</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

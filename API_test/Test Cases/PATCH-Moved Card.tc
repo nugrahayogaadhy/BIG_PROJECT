@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PATCH-Moved Card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>054efb7b-2569-4838-a1a9-48c36336855d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6c58f6df-c24f-4ef2-928a-8e20c30e7fd4</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PATCH - Update list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1337dcb5-d30e-4643-98f8-d5986a91889b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>707d24dc-fae8-4035-a9c0-14171feed1bf</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

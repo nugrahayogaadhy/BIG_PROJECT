@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST-Create Card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4911fbd5-ba4e-4925-b3ab-7349fc1c02cc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ddbb382-ea0c-4108-9097-579620832a4e</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

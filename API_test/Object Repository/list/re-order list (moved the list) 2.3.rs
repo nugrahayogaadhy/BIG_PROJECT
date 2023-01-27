@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>re-order list (moved the list) 2.3</name>
+   <tag></tag>
+   <elementGuidId>f552f343-acd3-44fb-8aa5-662035668fc7</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;{\r\n    \&quot;data\&quot;: {\r\n        \&quot;draggableId\&quot;: \&quot;63bc3964bab253e2333a2abb\&quot;, // card_id\r\n        \&quot;type\&quot;: \&quot;card\&quot;,\r\n        \&quot;source\&quot;: {\r\n            \&quot;index\&quot;: 1, //perhatikan posisi index\r\n            \&quot;droppableId\&quot;: \&quot;63bbf0a7faf784b05649a7d8\&quot; // list id\r\n        },\r\n        \&quot;reason\&quot;: \&quot;DROP\&quot;,\r\n        \&quot;mode\&quot;: \&quot;FLUID\&quot;,\r\n        \&quot;destination\&quot;: {\r\n            \&quot;droppableId\&quot;: \&quot;63bbf0a7faf784b05649a7d8\&quot;, // list id\r\n            \&quot;index\&quot;: 0\r\n        },\r\n        \&quot;combine\&quot;: null\r\n    },\r\n    \&quot;selector\&quot;: {\r\n        \&quot;boardId\&quot;: \&quot;63bbef8abab253e23339ce70\&quot;\r\n    }\r\n}&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>${authorization}</value>
+      <webElementGuid>4f1fda8b-456e-4848-b0cc-4f148287558d</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>d0804b02-9696-44f5-9a5e-eed16b20b612</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>7.5.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>PATCH</restRequestMethod>
+   <restUrl>${baseURL}/api/v1/cards/position?companyId=63bbc8f6faf784b056499637</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.baseURL</defaultValue>
+      <description></description>
+      <id>3ca3dc3f-566f-4112-be3a-8a8f83b82498</id>
+      <masked>false</masked>
+      <name>baseURL</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.authorization</defaultValue>
+      <description></description>
+      <id>f99bd461-b1e8-4522-be29-249313244edd</id>
+      <masked>false</masked>
+      <name>authorization</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

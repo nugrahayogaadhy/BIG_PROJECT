@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://stagingapi.cicle.app/api/v1'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNDgyMTMxOTQxMTk3NzQwNTk5YWI1ZiIsImdvb2dsZUlkIjoiMTA2Mjc2MDYyMjUyNjMyNDY5NTMxIiwiZW1haWwiOiJpdHVpbmlpbmlpdHUxM0BnbWFpbC5jb20iLCJmdWxsTmFtZSI6ImluaSBpdHUiLCJwaG90b1VybCI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FMbTV3dTJ4bG83dFZoY3pDWjVaaWdfTlRHNzhKcVFxbXpxU1ItMGlSQXY1PXM5Ni1jIiwiYmlvIjoiIiwic3RhdHVzIjoiIiwiY3JlYXRlZEF0IjoiMjAyMi0xMC0xM1QxNDozMToxMy4wMzZaIiwidXBkYXRlZEF0IjoiMjAyMy0wMS0xNlQwNzoxNjozNy4yOTNaIiwiX192IjowLCJkZWZhdWx0Q29tcGFueSI6eyJfaWQiOiI2M2M0ZjlkNWRmNGUxOGYxNWRjZjYzMGYifX0sImlhdCI6MTY3Mzg1MzYyOCwiZXhwIjoxNjc2NDQ1NjI4fQ.7kk1auhbp5ag9mm6pxbiT4-2rDMNt-qqUtxL2Cys6Go'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>companyId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'API Company'</initValue>
+      <name>companyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNDgyMTMxOTQxMTk3NzQwNTk5YWI1ZiIsImdvb2dsZUlkIjoiMTA2Mjc2MDYyMjUyNjMyNDY5NTMxIiwiZW1haWwiOiJpdHVpbmlpbmlpdHUxM0BnbWFpbC5jb20iLCJmdWxsTmFtZSI6ImluaSBpdHUiLCJwaG90b1VybCI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FMbTV3dTJ4bG83dFZoY3pDWjVaaWdfTlRHNzhKcVFxbXpxU1ItMGlSQXY1PXM5Ni1jIiwiYmlvIjoiIiwic3RhdHVzIjoiIiwiY3JlYXRlZEF0IjoiMjAyMi0xMC0xM1QxNDozMToxMy4wMzZaIiwidXBkYXRlZEF0IjoiMjAyMy0wMS0xNlQwNzoxNjozNy4yOTNaIiwiX192IjowLCJkZWZhdWx0Q29tcGFueSI6eyJfaWQiOiI2M2M0ZjlkNWRmNGUxOGYxNWRjZjYzMGYifX0sImlhdCI6MTY3Mzg1MzYyOCwiZXhwIjoxNjc2NDQ1NjI4fQ.7kk1auhbp5ag9mm6pxbiT4-2rDMNt-qqUtxL2Cys6Go'</initValue>
+      <name>authorization</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>boardId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'API Team'</initValue>
+      <name>teamName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>teamId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'list API'</initValue>
+      <name>listName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>listId</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

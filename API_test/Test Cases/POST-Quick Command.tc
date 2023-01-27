@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST-Quick Command</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a61baa55-9e77-4af2-80b8-26ac207a3ec4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7963f07e-b6fc-402f-b967-a10b5fa668d0</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

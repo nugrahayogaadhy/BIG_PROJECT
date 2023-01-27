@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST-Create New Company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e98a1293-0673-404b-8c19-61d9d5046f10</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a98e927a-00d3-4302-924c-81fa64272762</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a98e927a-00d3-4302-924c-81fa64272762</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

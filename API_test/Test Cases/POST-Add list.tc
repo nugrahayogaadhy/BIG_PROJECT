@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST-Add list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c70664cc-b43c-404e-9595-44eacd56b50a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>673df1e3-3701-4d7a-a98b-46791a0f47ef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>673df1e3-3701-4d7a-a98b-46791a0f47ef</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

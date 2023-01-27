@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>new api test 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af4520ac-419b-42cf-8323-44f24f4ba7ce</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>41ba1cec-860d-49f3-8484-d9c0046a95ed</id>
+      <masked>false</masked>
+      <name>res2</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PATCH-Moved LIst</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c504d721-8a50-4b02-aa28-ad1ebaa24074</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>182158f1-89b8-4a0a-a952-f6999521658c</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

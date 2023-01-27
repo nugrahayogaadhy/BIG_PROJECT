@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PATCH-Edit Team</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea333c4d-0fe3-4a25-ae41-d5e8b26cfe95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b608dacc-6f26-4748-b24c-80209387bf89</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b608dacc-6f26-4748-b24c-80209387bf89</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>
