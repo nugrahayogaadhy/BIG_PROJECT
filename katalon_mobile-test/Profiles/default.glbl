@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GlobalVariableEntities>
+   <description/>
+   <name>default</name>
+   <tag/>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'https://stagingapi.cicle.app/api/v1'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzNDgyMTMxOTQxMTk3NzQwNTk5YWI1ZiIsImdvb2dsZUlkIjoiMTA2Mjc2MDYyMjUyNjMyNDY5NTMxIiwiZW1haWwiOiJpdHVpbmlpbmlpdHUxM0BnbWFpbC5jb20iLCJmdWxsTmFtZSI6ImluaSBpdHUiLCJwaG90b1VybCI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FMbTV3dTJ4bG83dFZoY3pDWjVaaWdfTlRHNzhKcVFxbXpxU1ItMGlSQXY1PXM5Ni1jIiwiYmlvIjoiIiwic3RhdHVzIjoiIiwiY3JlYXRlZEF0IjoiMjAyMi0xMC0xM1QxNDozMToxMy4wMzZaIiwidXBkYXRlZEF0IjoiMjAyMy0wMS0wNVQxNzo0NTowMS4yOTBaIiwiX192IjowLCJkZWZhdWx0Q29tcGFueSI6bnVsbH0sImlhdCI6MTY3MzAyNTE3MywiZXhwIjoxNjc1NjE3MTczfQ.5RiuxaXFjmFViJW0xfjE3l5_iecYXc8opzrxjvMD5YQ'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>''</initValue>
+      <name>companyId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>60</initValue>
+      <name>timeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'Company Baru'</initValue>
+      <name>companyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>''</initValue>
+      <name>boardId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'staging.cicle'</initValue>
+      <name>aplicationId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'androidApp/apk-staging-for-iqbal.apk'</initValue>
+      <name>staging_cicle_apk</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'automation team'</initValue>
+      <name>teamName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'Board List Automationcom.github.javafaker.Name@1b2df3aa'</initValue>
+      <name>listboardName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'Description team'</initValue>
+      <name>teamDesc</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
